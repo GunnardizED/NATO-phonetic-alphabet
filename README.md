@@ -24,5 +24,3 @@ python nato_phonetic.py
 The script will read the CSV file and create a dictionary (phonetic_dict) containing the mapping between letters and their NATO phonetic codes.
 You will be prompted to enter a word.
 After entering the word, the script will generate the NATO phonetic alphabet representation for each letter in the word.
-If a character in the word is not a letter in the alphabet, an error message will be displayed.
-You can continue entering words as many times as you like.
